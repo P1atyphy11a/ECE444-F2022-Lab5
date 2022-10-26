@@ -1,3 +1,6 @@
+import sys,os
+sys.path.append("./") 
+
 from __init__ import create_app
 import pickle
 import networkx as nx
