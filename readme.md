@@ -1,6 +1,13 @@
 Haoyu Li
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
+Frontend Design
+1: add search feedback
+![add_search_feedback](https://user-images.githubusercontent.com/37389868/198169427-b1689a05-4a48-4031-8199-265f0f1dd193.png)
+2: add template pathway page
+![add_pathway](https://user-images.githubusercontent.com/37389868/198169450-b5ad74e3-7fcb-4545-9c54-c5c4de091b59.png)
+
+
 # CARTE Education Pathways
 
 ## Description
